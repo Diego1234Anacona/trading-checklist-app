@@ -1,3 +1,5 @@
+<img src="img/logo.jpg" alt="Trading Checklist" width="120">
+
 # Trading Checklist — Cumplimiento del plan de trading
 
 **En línea:** [trading.check.snakegym.cloud](https://trading.check.snakegym.cloud)
@@ -44,6 +46,6 @@ decisiones de alguien no puede perderlo por un disco que falla.
 
 ---
 
-## Capturas
+## La app por dentro
 
-<!-- Pendientes -->
+![Informe de desempeño: plan cumplido, operaciones ganadas y perdidas, aciertos](img/trading-checklist.jpg)
